@@ -2,7 +2,7 @@
 I work as a fullstack developer with frontend and backend skills. I am based in Kolkata, India
 ### Pronouns She 😄
 ## 🌱 I’m currently focusing on Node and typescript.
-## 🌱 Trying to gatrher knowlwdge about serverless architecture.
+## 🌱 Trying to gatrhering knowlwdge about serverless architecture.
 <!--
 **ItsTheSanchari/ItsTheSanchari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
