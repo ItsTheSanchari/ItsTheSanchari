@@ -1,4 +1,4 @@
-## Hey! I am Sanchari👋
+## Hey! This is Sanchari👋
 I work as a fullstack developer with frontend and backend skills. I am based in Kolkata, India
 ### Pronouns She 😄
 - 🔭 I’m currently focusing on Node and typescript.
